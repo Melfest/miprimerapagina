@@ -79,6 +79,10 @@ p {
 .box3:hover {
     background-color: rgb(99, 99, 4);
 }
+.infobox {
+    text-align: center;
+    color: #f8f8f8;
+}
 
 .container {
     max-width: 800px;
