@@ -252,6 +252,11 @@ a {
     flex-wrap: wrap;
 }
 
+.greeting {
+    text-align: center;
+    color: #f8f8f8;
+}
+
 /*video*/
 
 .video {
